@@ -1,0 +1,1 @@
+This is a first Semester project on Dinosaurs and Fossils explaining some of them, using raw HTML and CSS only.
