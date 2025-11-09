@@ -1,1 +1,1 @@
-This is a first Semester project on Dinosaurs and Fossils explaining some of them, using raw HTML and CSS only.
+This is a first Semester project on Dinosaurs and Fossils explaining some of the dinosaurs and their origin, using raw HTML and CSS only.
