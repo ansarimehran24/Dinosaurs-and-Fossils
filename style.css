@@ -13,6 +13,10 @@ h2,
 h3 {
     font-family: Orbitron;
 }
+nav span{
+    font-family: Orbitron;
+    font-weight: bold;
+}
 
 nav {
     display: flex;
